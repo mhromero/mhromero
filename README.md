@@ -1,6 +1,6 @@
 # Hey! I'm María
 
-Junior AI Engineer building practical intelligent systems. Always learning, experimenting, and turning ideas into useful solutions.
+AI and Data Engineer building practical intelligent systems. Always learning, experimenting, and turning ideas into useful solutions.
 
 ---
 
