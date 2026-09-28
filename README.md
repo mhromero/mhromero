@@ -8,7 +8,7 @@ Junior AI Engineer building practical intelligent systems with generative AI, ma
 `Generative AI` · `LLMs` · `RAG` · `AI Agents` · `Computer Vision` · `Deep Learning` · `MLOps`
 
 ### Tech Stack
-`Python` · `PyTorch` · `TensorFlow` · `Hugging Face` · `Whisper` · `SAM` · `FastAPI` · `Streamlit` · `Spark` · `SQL` · `Firebase` · `AWS`
+`Python` · `PyTorch` · `TensorFlow` · `Hugging Face` · `Java` · `SAM` · `FastAPI` · `C++` · `Spark` · `SQL` · `GCP` · `AWS`
 
 ---
 
