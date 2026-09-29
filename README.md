@@ -5,7 +5,7 @@ AI and Data Engineer building practical intelligent systems. Always learning, ex
 ---
 
 ### What I'm into
-`Generative AI` · `LLMs` · `RAG` · `AI Agents` · `Computer Vision` · `Deep Learning` · `MLOps`
+`Generative AI` · `LLMs` · `RAG` · `AI Agents` · `Computer Vision` · `Deep Learning` · `ML`
 
 ### Tech Stack
 `Python` · `PyTorch` · `TensorFlow` · `Hugging Face` · `Java` · `SAM` · `FastAPI` · `C++` · `Spark` · `SQL` · `GCP` · `AWS`
